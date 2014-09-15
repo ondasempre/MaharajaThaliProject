@@ -1,0 +1,69 @@
+# Copyright (C) 2014 WP Job Manager
+# This file is distributed under the same license as the WP Job Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Google Analytics 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-job-manager\n"
+"POT-Creation-Date: 2014-03-19 16:17-0000\n"
+"PO-Revision-Date: 2014-03-19 16:17-0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _;_e;gettext;gettext_noop;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: easy-google-analytics.php:70
+msgid "Settings"
+msgstr ""
+
+#: easy-google-analytics.php:89
+msgid "Google Analytics UA Tracking ID"
+msgstr ""
+
+#: easy-google-analytics.php:110
+msgid ""
+"Enter your Google UA Code/ID here. If you don't know how to get the UA code, "
+"click the &quot;Help&quot; button at the top of this page."
+msgstr ""
+
+#: easy-google-analytics.php:127
+msgid "Something went wrong make sure you have entered a valid UA code."
+msgstr ""
+
+#: easy-google-analytics.php:142
+msgid ""
+"To get your analytics UA code you need to login into your Google Analytics "
+"control panel"
+msgstr ""
+
+#: easy-google-analytics.php:143
+msgid "Into the topbar of the page click the &quot;Admin&quot; link."
+msgstr ""
+
+#: easy-google-analytics.php:144
+msgid "Click the &quot;Tracking Info&quot; link."
+msgstr ""
+
+#: easy-google-analytics.php:145
+msgid "Then click the &quot;Tracking Code&quot; link."
+msgstr ""
+
+#: easy-google-analytics.php:146
+msgid ""
+"Copy and paste the Tracking ID number into the option in your WordPress "
+"admin panel here."
+msgstr ""
+
+#: easy-google-analytics.php:148
+msgid "A tracking ID number looks like this UA-2986XXXX-X"
+msgstr ""
+
+#: easy-google-analytics.php:152
+msgid "Google Analytics UA Code"
+msgstr ""

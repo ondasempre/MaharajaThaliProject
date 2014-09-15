@@ -1,0 +1,9 @@
+.wp_pp_button_selection_section, .wp_pp_button_other_amt_section, .wp_pp_button_reference_section{
+margin-bottom: 10px;
+}
+.wp_paypal_button_widget{
+margin: 10px 0;
+}
+.wp_accept_pp_button_form input{
+width: auto !important;
+}

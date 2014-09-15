@@ -1,0 +1,116 @@
+0000.000 (0) Opened log file at time: Wed, 30 Jul 2014 11:33:23 +0000 on http://192.168.56.101/wordpress
+0000.002 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.17 WP: 3.9.1 PHP: 5.3.10-1ubuntu3.13 (Linux ubuntu 3.11.0-15-generic #25~precise1-Ubuntu SMP Thu Jan 30 17:39:31 UTC 2014 x86_64) MySQL: 5.5.35-0ubuntu0.12.04.2 Server: Apache/2.2.22 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 46.2M | 46.8M) multisite: N mcrypt: Y ZipArchive::addFile: Y W3TC/ObjectCache: N
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 16949.4 Mb
+0000.005 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.010 (0) Requesting semaphore lock (fd)
+0000.012 (0) Set semaphore last lock (fd) time to 2014-07-30 11:33:23
+0000.013 (0) Semaphore lock (fd) complete
+0000.017 (0) Backup run: resumption=0, nonce=17fb800b2656, begun at=1406720003 (0s ago), job type=backup
+0000.019 (0) Scheduling a resumption (1) after 300 seconds (1406720303) in case this run gets aborted
+0000.025 (0) Checking if we have a zip executable available
+0000.028 (0) Creation of backups of directories: beginning
+0000.031 (0) Beginning creation of dump of plugins (split every: 800 Mb)
+0000.043 (0) Total entities for the zip file: 96 directories, 548 files (0 skipped as non-modified), 9.5 Mb
+0000.047 (0) Zip: backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0000.050 (0) Zip: backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0000.053 (0) Zip: backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0000.058 (0) Zip: backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0000.061 (0) Zip: backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0000.063 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.3 Mb, 548 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0001.501 (0) Created plugins zip (0) - 3006.2 Kb in 1.5 s (2048.3 Kb/s) (SHA1 checksum: c7dddf51f14fbd782bccff8bf7a04ef76ad29865)
+0001.507 (0) Beginning creation of dump of themes (split every: 800 Mb)
+0001.537 (0) Total entities for the zip file: 44 directories, 362 files (0 skipped as non-modified), 10.6 Mb
+0001.542 (0) Zip: backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0001.546 (0) Zip: backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0001.552 (0) Zip: backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0002.670 (0) Created themes zip (0) - 3471.8 Kb in 1.2 s (2989.8 Kb/s) (SHA1 checksum: 9427090f226aa7f7fc631c611bd49f660d5aed29)
+0002.678 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0002.680 (0) Looking for candidates to back up in: /var/www/wordpress/wp-content/uploads
+0002.681 (0) finding files: 2014: adding to list (1)
+0002.682 (0) Beginning creation of dump of uploads (split every: 800 Mb)
+0002.688 (0) Total entities for the zip file: 2 directories, 0 files (0 skipped as non-modified), 0 Mb
+0002.694 (0) Created uploads zip (0) - 0.2 Kb in 0 s (23.4 Kb/s) (SHA1 checksum: a3079f1f1d15ba6b2a0feead9656e8e3ee2dce0d)
+0002.696 (0) Beginning backup of other directories found in the content directory (index: 0)
+0002.698 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0002.699 (0) Looking for candidates to back up in: /var/www/wordpress/wp-content
+0002.699 (0) finding files: themes: skipping: this is the themes directory
+0002.701 (0) finding files: languages: adding to list (1)
+0002.702 (0) finding files: upgrade: skipping: excluded by options
+0002.702 (0) finding files: updraft: skipping: this is the updraft directory
+0002.703 (0) finding files: plugins: skipping: this is the plugins directory
+0002.705 (0) finding files: uploads: skipping: this is the uploads directory
+0002.706 (0) finding files: index.php: adding to list (2)
+0002.708 (0) Total entities for the zip file: 3 directories, 17 files (0 skipped as non-modified), 1.4 Mb
+0002.896 (0) Created others zip (0) - 407.9 Kb in 0.2 s (2164.3 Kb/s) (SHA1 checksum: 27571ebda7f1613c5ba1b90ec29542771677a22f)
+0002.906 (0) Saving backup status to database (elements: 8)
+0002.910 (0) Beginning creation of database dump (WordPress DB)
+0002.916 (0) Testing: /usr/bin/mysqldump
+0002.947 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0002.956 (0) Table wp_options: Total expected rows (approximate): 90
+0002.979 (0) Table wp_options: Total rows added: 151 in 0.02 seconds
+0002.983 (0) Table wp_options: finishing file (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_options.table.gz - 64.1 Kb)
+0002.995 (0) Table wp_users: Total expected rows (approximate): 1
+0002.999 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0003.002 (0) Table wp_users: finishing file (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_users.table.gz - 0.5 Kb)
+0003.008 (0) Table wp_usermeta: Total expected rows (approximate): 18
+0003.013 (0) Table wp_usermeta: Total rows added: 18 in 0.00 seconds
+0003.016 (0) Table wp_usermeta: finishing file (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_usermeta.table.gz - 0.8 Kb)
+0003.022 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0003.024 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0003.027 (0) Table wp_commentmeta: finishing file (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_commentmeta.table.gz - 0.3 Kb)
+0003.034 (0) Table wp_comments: Total expected rows (approximate): 1
+0003.037 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0003.040 (0) Table wp_comments: finishing file (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_comments.table.gz - 0.6 Kb)
+0003.046 (0) Table wp_links: Total expected rows (approximate): 0
+0003.049 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0003.052 (0) Table wp_links: finishing file (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_links.table.gz - 0.4 Kb)
+0003.059 (0) Table wp_postmeta: Total expected rows (approximate): 23
+0003.062 (0) Table wp_postmeta: Total rows added: 23 in 0.00 seconds
+0003.064 (0) Table wp_postmeta: finishing file (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_postmeta.table.gz - 0.6 Kb)
+0003.072 (0) Table wp_posts: Total expected rows (approximate): 6
+0003.077 (0) Table wp_posts: Total rows added: 6 in 0.00 seconds
+0003.081 (0) Table wp_posts: finishing file (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_posts.table.gz - 1.5 Kb)
+0003.089 (0) Table wp_term_relationships: Total expected rows (approximate): 1
+0003.091 (0) Table wp_term_relationships: Total rows added: 1 in 0.00 seconds
+0003.094 (0) Table wp_term_relationships: finishing file (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_term_relationships.table.gz - 0.3 Kb)
+0003.105 (0) Table wp_term_taxonomy: Total expected rows (approximate): 1
+0003.108 (0) Table wp_term_taxonomy: Total rows added: 1 in 0.00 seconds
+0003.110 (0) Table wp_term_taxonomy: finishing file (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_term_taxonomy.table.gz - 0.4 Kb)
+0003.117 (0) Table wp_terms: Total expected rows (approximate): 1
+0003.120 (0) Table wp_terms: Total rows added: 1 in 0.00 seconds
+0003.122 (0) Table wp_terms: finishing file (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_terms.table.gz - 0.4 Kb)
+0003.128 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_options.table.gz (1/11): adding to final database dump
+0003.164 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_users.table.gz (2/11): adding to final database dump
+0003.167 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_usermeta.table.gz (3/11): adding to final database dump
+0003.170 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_commentmeta.table.gz (4/11): adding to final database dump
+0003.171 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_comments.table.gz (5/11): adding to final database dump
+0003.172 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_links.table.gz (6/11): adding to final database dump
+0003.173 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_postmeta.table.gz (7/11): adding to final database dump
+0003.175 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_posts.table.gz (8/11): adding to final database dump
+0003.177 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_term_relationships.table.gz (9/11): adding to final database dump
+0003.179 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_term_taxonomy.table.gz (10/11): adding to final database dump
+0003.181 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db-table-wp_terms.table.gz (11/11): adding to final database dump
+0003.182 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db.gz: finished writing out complete database file (48 Kb)
+0003.190 (0) Total database tables backed up: 11 (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db.gz, size: 69203, checksum (SHA1): e9b8d86432811a0a69d5a3dad716efbc66653f39)
+0003.194 (0) Saving backup history
+0003.199 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0003.200 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0003.201 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0003.203 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-others.zip: others: This file has not yet been successfully uploaded: will queue
+0003.205 (0) backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db.gz: db: This file has not yet been successfully uploaded: will queue
+0003.207 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0003.213 (0) Cloud backup selection: 
+0003.215 (0) No remote despatch: user chose no remote backup service
+0003.218 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0003.219 (0) Number of backup sets in history: 1
+0003.221 (0) Examining backup set with datestamp: 1406720003 (Jul 30 2014 11:33:23)
+0003.222 (0) 1406720003: db: this set includes a database (backup_2014-07-30-1333_Maharaja_Thali_Project_17fb800b2656-db.gz); db count is now 1
+0003.226 (0) 1406720003: this backup set remains non-empty (1/1); will retain in history
+0003.227 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0003.229 (0) Resume backup (17fb800b2656, 0): finish run
+0003.233 (0) Decremented the semaphore (fd) by 1
+0003.235 (0) Semaphore (fd) unlocked
+0003.237 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0003.241 (0) The backup apparently succeeded and is now complete
+0003.243 (0) No email will/can be sent - the user has not configured an email address.
+0003.245 (0) Il backup apparentemente è riuscito ed ora è completo

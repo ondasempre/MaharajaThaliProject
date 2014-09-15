@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiny Carousel Horizontal Slider\n"
+"POT-Creation-Date: 2014-08-02 22:17+0800\n"
+"PO-Revision-Date: 2014-08-02 22:17+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tiny-carousel-horizontal-slider.php:214
+msgid "Tiny carousel"
+msgstr "டைனி கேலரியில்"
+
+#: ../pages/image-management-add.php:32 ../pages/image-management-edit.php:60
+msgid "Please enter slider width. only number."
+msgstr "Please enter slider width. only number."
+
+#: ../pages/image-management-add.php:39 ../pages/image-management-edit.php:67
+msgid "Please enter the image width. only number."
+msgstr "Please enter the image width. only number."
+
+#: ../pages/image-management-add.php:46 ../pages/image-management-edit.php:74
+msgid "Please enter the image height. only number."
+msgstr "Please enter the image height. only number."
+
+#: ../pages/image-management-add.php:53 ../pages/image-management-edit.php:81
+msgid "Please enter the display. only number."
+msgstr "Please enter the display. only number."
+
+#: ../pages/image-management-add.php:64 ../pages/image-management-edit.php:92
+msgid "Please select the image folder location."
+msgstr "Please select the image folder location."
+
+#: ../pages/image-management-add.php:81
+msgid "New details was successfully added."
+msgstr "புதிய விவரங்கள் வெற்றிகரமாக சேர்க்கப்பட்டது."
+
+#: ../pages/image-management-add.php:113
+#: ../pages/image-management-edit.php:135
+msgid "Click here"
+msgstr "இங்கே கிளிக் செய்யவும்"
+
+#: ../pages/image-management-add.php:113
+#: ../pages/image-management-edit.php:135
+msgid "to view the details"
+msgstr "விவரங்கள் பார்வையிட"
+
+#: ../pages/image-management-add.php:121
+#: ../pages/image-management-edit.php:143
+#: ../pages/image-management-show.php:52
+msgid "Tiny carousel horizontal slider"
+msgstr "டைனி கரூசெல் ஸ்லைடர்"
+
+#: ../pages/image-management-add.php:123
+msgid "Add details"
+msgstr "விவரங்கள் சேர்"
+
+#: ../pages/image-management-add.php:129
+#: ../pages/image-management-edit.php:151
+#: ../pages/image-management-show.php:69 ../pages/image-management-show.php:81
+msgid "Image width"
+msgstr "பட அகலம்"
+
+#: ../pages/image-management-add.php:131
+#: ../pages/image-management-edit.php:153
+msgid ""
+"Enter your image width, You should upload same size images in the folder. "
+"(Ex: 200)"
+msgstr ""
+"Enter your image width, We should upload the same size images in the folder. "
+"(Ex: 200)"
+
+#: ../pages/image-management-add.php:133
+#: ../pages/image-management-edit.php:155
+#: ../pages/image-management-show.php:70 ../pages/image-management-show.php:82
+msgid "Image height"
+msgstr "பட உயரம்"
+
+#: ../pages/image-management-add.php:135
+#: ../pages/image-management-edit.php:157
+msgid ""
+"Enter your image height, You should upload same size images in the folder. "
+"(Ex: 150)"
+msgstr ""
+"Enter your image height, We should upload the same size images in the "
+"folder. (Ex: 150)"
+
+#: ../pages/image-management-add.php:141
+#: ../pages/image-management-edit.php:163
+#: ../pages/image-management-show.php:72 ../pages/image-management-show.php:84
+msgid "Controls"
+msgstr "கண்ட்ரோல்"
+
+#: ../pages/image-management-add.php:146
+msgid "Want to use the Left, Right arrow button in your gallery?"
+msgstr "Want to use the Left, Right arrow button in your gallery?"
+
+#: ../pages/image-management-add.php:148
+#: ../pages/image-management-edit.php:170
+msgid "Auto interval"
+msgstr "ஆட்டோ இடைவெளி"
+
+#: ../pages/image-management-add.php:153
+msgid "Want to add auto interval to move one image from another?"
+msgstr "Want to add auto interval to move one image from another?"
+
+#: ../pages/image-management-add.php:155
+#: ../pages/image-management-edit.php:177
+msgid "Interval time"
+msgstr "இடைவேளை நேரம்"
+
+#: ../pages/image-management-add.php:157
+#: ../pages/image-management-edit.php:179
+msgid "Auto interval time in millisecond. (Ex: 1500)"
+msgstr "Auto interval time in millisecond. (Ex: 1500)"
+
+#: ../pages/image-management-add.php:159
+#: ../pages/image-management-edit.php:181
+msgid "Animation Duration"
+msgstr "கால அளவு"
+
+#: ../pages/image-management-add.php:161
+#: ../pages/image-management-edit.php:183
+msgid "Animation duration in millisecond. (Ex: 1000)"
+msgstr "Animation duration in millisecond. (Ex: 1000)"
+
+#: ../pages/image-management-add.php:163
+#: ../pages/image-management-edit.php:185
+msgid "Random display"
+msgstr "ரேண்டம் காட்சி"
+
+#: ../pages/image-management-add.php:168
+#: ../pages/image-management-edit.php:190
+msgid "Do you want to display images in random order?"
+msgstr "Do you want to display images in random order?"
+
+#: ../pages/image-management-add.php:170
+#: ../pages/image-management-edit.php:192
+msgid "Image folder location"
+msgstr "Image folder location"
+
+#: ../pages/image-management-add.php:172
+#: ../pages/image-management-edit.php:194
+msgid "Example: wp-content/plugins/tiny-carousel-horizontal-slider/images/"
+msgstr "Example: wp-content/plugins/tiny-carousel-horizontal-slider/images/"
+
+#: ../pages/image-management-add.php:177
+msgid "Insert Details"
+msgstr "சேமிக்கவும்"
+
+#: ../pages/image-management-add.php:178
+#: ../pages/image-management-edit.php:200
+msgid "Cancel"
+msgstr "ரத்து"
+
+#: ../pages/image-management-add.php:179
+#: ../pages/image-management-edit.php:201
+#: ../pages/image-management-show.php:127
+msgid "Help"
+msgstr "உதவி"
+
+#: ../pages/image-management-add.php:185
+#: ../pages/image-management-edit.php:207
+#: ../pages/image-management-show.php:137
+msgid "Check official website for more information"
+msgstr "மேலும் தகவலுக்கு அதிகாரப்பூர்வ இணையதளம் பாருங்கள்"
+
+#: ../pages/image-management-add.php:186
+#: ../pages/image-management-edit.php:208
+#: ../pages/image-management-show.php:138
+msgid "click here"
+msgstr "இங்கே கிளிக் செய்யவும்"
+
+#: ../pages/image-management-edit.php:17
+msgid "Oops, selected details doesnt exist."
+msgstr "விவரங்கள் இல்லை."
+
+#: ../pages/image-management-edit.php:119
+msgid "Details was successfully updated."
+msgstr "விவரங்கள் வெற்றிகரமாக புதுப்பிக்கப்பட்டது."
+
+#: ../pages/image-management-edit.php:145
+#: ../pages/image-management-edit.php:199
+msgid "Update Details"
+msgstr "புதுப்பிக்கவும்"
+
+#: ../pages/image-management-edit.php:168
+msgid "Do you like to use the Left, Right arrow button in your gallery?"
+msgstr "Do you like to use the Left, Right arrow button in your gallery?"
+
+#: ../pages/image-management-edit.php:175
+msgid "Do you like to add auto interval to move one image from another?"
+msgstr "Do you like to add auto interval to move one image from another?"
+
+#: ../pages/image-management-show.php:22
+msgid "Oops, selected details doesnt exist"
+msgstr "தேர்வு விவரங்கள் இல்லை"
+
+#: ../pages/image-management-show.php:40
+msgid "Selected record was successfully deleted."
+msgstr "வெற்றிகரமாக நீக்கப்பட்டது."
+
+#: ../pages/image-management-show.php:53
+#: ../pages/image-management-show.php:126
+msgid "Add New"
+msgstr "சேர்க்கவும்"
+
+#: ../pages/image-management-show.php:66 ../pages/image-management-show.php:78
+msgid "Short code"
+msgstr "குறுகிய குறியீடு"
+
+#: ../pages/image-management-show.php:68 ../pages/image-management-show.php:80
+msgid "Image folder"
+msgstr "பட Folder"
+
+#: ../pages/image-management-show.php:99
+msgid "Edit"
+msgstr "திருத்து"
+
+#: ../pages/image-management-show.php:100
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: ../pages/image-management-show.php:116
+msgid "No records available."
+msgstr "பதிவுகள் இல்லை."
+
+#: ../pages/image-management-show.php:131
+msgid "Plugin configuration option"
+msgstr "Plugin configuration option"
+
+#: ../pages/image-management-show.php:133
+msgid "Add the plugin in the posts or pages using short code."
+msgstr "Add the plugin in the posts or pages using short code."
+
+#: ../pages/image-management-show.php:134
+msgid "Add directly in to the theme using PHP code."
+msgstr "Add directly in to the theme using PHP code."
+
+#: ../pages/image-management-show.php:139
+msgid ""
+"Dont upload your original images into plug-in folder. if you upload the "
+"images into plug-in folder, you may lose the images when you update the plug-"
+"in to next version."
+msgstr ""
+"Dont upload your original images into plug-in folder. if you upload the "
+"images into plug-in folder, you may lose the images when you update the plug-"
+"in to next version."
+
+#~ msgid "Slider width"
+#~ msgstr "ஸ்லைடர் அகலம்"
+
+#~ msgid "Enter your galley width. (Ex: 500)"
+#~ msgstr "Enter your galley width. (Ex: 500)"
+
+#~ msgid "Image display"
+#~ msgstr "பட காட்சி"
+
+#~ msgid "Enter how many images you want to move at a time. (Ex: 1)"
+#~ msgstr "Enter how many images you want to move at a time. (Ex: 1)"
+
+#~ msgid "Enter your galley width. (Ex: 450)"
+#~ msgstr "Enter your galley width. (Ex: 450)"
+
+#~ msgid "Display"
+#~ msgstr "காண்பி"
